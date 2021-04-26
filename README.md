@@ -13,10 +13,13 @@ Visit [MYGITHUB](https://github/com/fgruyer) :+1:
 |      cell 1      |                  |
 
 
-** this is bold text **
-* italic text *
-~~suppressed text~~~
-*** all this text is IMPORTANT***
+**this is bold text**
+
+*italic text*
+
+~~suppressed text~~
+
+***all this text is IMPORTANT***
 
 
 
